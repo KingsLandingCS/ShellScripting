@@ -12,3 +12,4 @@ echo "20.5%5" | bc
 num=27
 
 echo "scale=2; sqrt($num)" | bc -l
+echo "scale=2; 3^3" | bc -l
